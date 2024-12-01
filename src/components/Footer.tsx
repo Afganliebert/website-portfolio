@@ -19,7 +19,7 @@ const Footer = () => {
         gutterBottom
         sx={{ color: '#8e8e8e', fontSize: '15px', marginLeft: '10px', marginTop: '25px', fontFamily: 'Poppins' }}
       >
-        &copy; DitzDev 2024
+        &copy; Afgan Jelek 2024
       </Typography>
     </Box>
     )
