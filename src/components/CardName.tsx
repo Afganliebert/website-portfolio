@@ -171,7 +171,7 @@ const CardName: React.FC = () => {
               }}
             >
               <AlternateEmailIcon sx={{ marginRight: 1 }} /> 
-              @rizuqagra@gmail.com
+              @afganliebert@gmail.com
             </Typography>
             <Typography 
               variant="body2" 
