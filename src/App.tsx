@@ -172,7 +172,7 @@ function App() {
         }}
       >
         <Container sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center',}}>
-          <h1 className="header">DitzDev</h1>
+          <h1 className="header">AfganJelek</h1>
           <div>
             <Tooltip title="Open Menu">
             <IconButton 
