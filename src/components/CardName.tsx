@@ -85,7 +85,7 @@ const CardName: React.FC = () => {
                 marginTop: 1.5,
               }}
             >
-              Afganliebert
+              Afganscott
             </Typography>
             <Typography 
               variant="body1" 
