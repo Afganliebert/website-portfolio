@@ -158,7 +158,7 @@ const CardName: React.FC = () => {
               }}
             >
               <LocationOnIcon sx={{ marginRight: 1 }} /> 
-              Banten, Indonesia
+              Jateng, Indonesia
             </Typography>
             <Typography 
               variant="body2" 
