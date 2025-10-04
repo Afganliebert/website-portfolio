@@ -184,7 +184,7 @@ const CardName: React.FC = () => {
               }}
             >
               <CakeIcon sx={{ marginRight: 1 }} /> 
-              02-01-2008, 16-17 Years Old ( Now )
+              10-05-2008, 17 Years Old ( Now )
             </Typography>
             <Typography 
               variant="body2" 
@@ -221,7 +221,7 @@ const CardName: React.FC = () => {
             >
               <FaTiktok style={{ marginRight: 12, width: '20px', height: '20px' }} /> 
               <Link 
-                href="https://www.tiktok.com/@afganliebert?_t=8rp5uKWHgC0&_r=1" 
+                href="https://www.tiktok.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 sx={{ 
@@ -244,7 +244,7 @@ const CardName: React.FC = () => {
             >
               <GitHubIcon sx={{ marginRight: 1 }} /> 
               <Link 
-                href="https://github.com/Afganliebert" 
+                href="https://github.com/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 sx={{ 
